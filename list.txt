@@ -1,2 +1,9 @@
-gprus2018_Men_SP_Scores.txt
-gpf1819_PlannedProgramEntries.txt
+gpf1819;ISU Grand Prix of Figure Skating Final 2018;Junior Ladies FS;gpf1819_JuniorLadies_PlannedProgramEntries_FS;planned
+gpf1819;ISU Grand Prix of Figure Skating Final 2018;Junior Ladies SP;gpf1819_JuniorLadies_PlannedProgramEntries_SP;planned
+gpf1819;ISU Grand Prix of Figure Skating Final 2018;Junior Men FS;gpf1819_JuniorMen_PlannedProgramEntries_FS;planned
+gpf1819;ISU Grand Prix of Figure Skating Final 2018;Junior Men SP;gpf1819_JuniorMen_PlannedProgramEntries_SP;planned
+gpf1819;ISU Grand Prix of Figure Skating Final 2018;Ladies FS;gpf1819_Ladies_PlannedProgramEntries_FS;planned
+gpf1819;ISU Grand Prix of Figure Skating Final 2018;Ladies SP;gpf1819_Ladies_PlannedProgramEntries_SP;planned
+gpf1819;ISU Grand Prix of Figure Skating Final 2018;Men FS;gpf1819_Men_PlannedProgramEntries_FS;planned
+gpf1819;ISU Grand Prix of Figure Skating Final 2018;Men SP;gpf1819_Men_PlannedProgramEntries_SP;planned
+gprus2018;ISU GP Rostelecom Cup 2018;Men SP;gprus2018_Men_SP_Scores.txt;normal
