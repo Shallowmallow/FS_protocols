@@ -14,4 +14,8 @@ gpf1819;ISU Grand Prix of Figure Skating Final 2018;Ladies FS;gpf1819_Ladies_FS_
 gpf1819;ISU Grand Prix of Figure Skating Final 2018;Ladies SP;gpf1819_Ladies_SP_Scores;normal
 gpf1819;ISU Grand Prix of Figure Skating Final 2018;Men FS;gpf1819_Men_FS_Scores;normal
 gpf1819;ISU Grand Prix of Figure Skating Final 2018;Men SP;gpf1819_Men_SP_Scores;normal
+gpfra2018;ISU GP Internationaux de France de Patinage 2018;Ladies SP;gpfra2018_Ladies_SP_Scores;normal
+gpfra2018;ISU GP Internationaux de France de Patinage 2018;Ladies FS;gpfra2018_Ladies_FS_Scores;normal
+gpfra2018;ISU GP Internationaux de France de Patinage 2018;Men SP;gpfra2018_Men_SP_Scores;normal
+gpfra2018;ISU GP Internationaux de France de Patinage 2018;Men FS;gpfra2018_Men_FS_Scores;normal
 gprus2018;ISU GP Rostelecom Cup 2018;Men SP;gprus2018_Men_SP_Scores.txt;normal
