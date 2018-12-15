@@ -18,4 +18,7 @@ gpfra2018;ISU GP Internationaux de France de Patinage 2018;Ladies SP;gpfra2018_L
 gpfra2018;ISU GP Internationaux de France de Patinage 2018;Ladies FS;gpfra2018_Ladies_FS_Scores;normal
 gpfra2018;ISU GP Internationaux de France de Patinage 2018;Men SP;gpfra2018_Men_SP_Scores;normal
 gpfra2018;ISU GP Internationaux de France de Patinage 2018;Men FS;gpfra2018_Men_FS_Scores;normal
-gprus2018;ISU GP Rostelecom Cup 2018;Men SP;gprus2018_Men_SP_Scores.txt;normal
+gprus2018;ISU GP Rostelecom Cup 2018;Men FS;gprus2018_Men_FS_Scores;normal
+gprus2018;ISU GP Rostelecom Cup 2018;Men SP;gprus2018_Men_SP_Scores;normal
+gprus2018;ISU GP Rostelecom Cup 2018;Ladies SP;gprus2018_Ladies_SP_Scores;normal
+gprus2018;ISU GP Rostelecom Cup 2018;Ladies FS;gprus2018_Ladies_FS_Scores;normal
