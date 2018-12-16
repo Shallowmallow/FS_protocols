@@ -143,6 +143,7 @@ program components:
 	Composition	1.60 8.00 8.00 7.50 8.50 7.50 8.25 8.25 8.00 8.50 8.07
 	Interpretation of the Music	1.60 8.00 8.00 7.25 8.00 7.50 8.25 8.25 7.50 8.25 7.93
 deductions:
+	falls: 1
 
 name: Alena LEONOVA
 rank: 7
@@ -215,6 +216,7 @@ program components:
 	Composition	1.60 8.00 8.50 7.50 7.25 7.50 7.25 8.25 7.25 8.50 7.75
 	Interpretation of the Music	1.60 8.00 8.75 7.25 7.50 7.50 7.75 8.50 7.00 8.25 7.82
 deductions:
+	falls: 1
 
 name: Mae Berenice MEITE
 rank: 10
@@ -239,6 +241,7 @@ program components:
 	Composition	1.60 7.00 6.75 6.75 5.75 6.50 5.25 6.50 6.25 7.25 6.50
 	Interpretation of the Music	1.60 6.75 7.00 6.50 6.25 6.75 5.00 6.50 6.00 7.00 6.54
 deductions:
+	falls: 1
 
 name: Angela WANG
 rank: 11
@@ -263,6 +266,7 @@ program components:
 	Composition	1.60 7.25 7.00 7.25 7.50 7.50 6.25 7.75 6.75 7.50 7.25
 	Interpretation of the Music	1.60 7.00 7.00 7.00 7.50 7.50 6.25 7.75 7.00 7.50 7.21
 deductions:
+	falls: 1
 
 name: Kailani CRAINE
 rank: 12

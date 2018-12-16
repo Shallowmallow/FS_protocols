@@ -38,4 +38,3 @@ gpusa2018;ISU GP 2018 Skate America;Ladies SP;gpusa2018_Ladies_SP_Scores;normal
 gpusa2018;ISU GP 2018 Skate America;Ladies FS;gpusa2018_Ladies_FS_Scores;normal
 gpusa2018;ISU GP 2018 Skate America;Men SP;gpusa2018_Men_SP_Scores;normal
 gpusa2018;ISU GP 2018 Skate America;Men FS;gpusa2018_Men_FS_Scores;normal
-

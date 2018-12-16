@@ -94,6 +94,7 @@ program components:
 	Composition	0.80 8.00 7.50 8.00 8.75 8.00 8.75 7.75 8.50 8.25 8.18
 	Interpretation of the Music	0.80 8.00 7.75 8.25 8.50 8.25 8.25 7.75 8.25 8.50 8.18
 deductions:
+	falls: 1
 
 name: Alena LEONOVA
 rank: 6
@@ -132,6 +133,7 @@ program components:
 	Composition	0.80 7.75 8.00 7.00 7.50 7.75 8.25 8.00 8.50 8.00 7.89
 	Interpretation of the Music	0.80 8.00 8.00 7.25 7.25 7.75 8.00 8.25 8.25 8.25 7.93
 deductions:
+	falls: 1
 
 name: Angela WANG
 rank: 8
@@ -227,4 +229,5 @@ program components:
 	Composition	0.80 7.50 6.25 7.25 7.25 6.50 7.25 6.75 7.00 6.75 6.96
 	Interpretation of the Music	0.80 7.25 6.50 7.00 7.00 6.25 7.50 7.00 7.00 6.50 6.89
 deductions:
+	falls: 1
 

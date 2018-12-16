@@ -18,6 +18,7 @@ program components:
 	Composition	1.00 9.25 7.75 8.75 9.25 8.75 8.75 9.50 9.50 9.25 9.07
 	Interpretation of the Music	1.00 9.00 8.00 8.50 8.75 8.75 8.75 9.50 9.25 9.00 8.86
 deductions:
+	falls: 1
 
 name: Sergei VORONOV
 rank: 2
@@ -56,6 +57,7 @@ program components:
 	Composition	1.00 8.00 8.00 8.00 8.25 7.75 8.50 8.00 8.50 8.75 8.18
 	Interpretation of the Music	1.00 8.50 8.00 8.00 8.25 8.00 8.50 7.75 8.25 8.50 8.21
 deductions:
+	falls: 1
 
 name: Matteo RIZZO
 rank: 4
@@ -189,6 +191,7 @@ program components:
 	Composition	1.00 6.75 6.50 6.50 6.50 6.25 7.25 7.50 7.25 7.00 6.82
 	Interpretation of the Music	1.00 6.75 6.50 6.25 7.00 6.50 7.25 7.50 7.00 6.75 6.82
 deductions:
+	falls: 1
 
 name: June Hyoung LEE
 rank: 11
@@ -208,6 +211,7 @@ program components:
 	Composition	1.00 7.75 6.00 7.50 7.50 6.25 6.75 7.00 7.00 7.25 7.04
 	Interpretation of the Music	1.00 7.75 6.00 7.25 7.75 6.50 6.75 7.00 6.75 7.00 7.00
 deductions:
+	falls: 2
 
 name: Kevin REYNOLDS
 rank: 12
