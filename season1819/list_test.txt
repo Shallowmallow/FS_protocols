@@ -26,7 +26,12 @@ gpjpn2018;NHK Trophy;Men SP;data0103;normal
 gpjpn2018;NHK Trophy;Men FS;data0105;normal
 gpjpn2018;NHK Trophy;Ladies SP;data0203;normal
 gpjpn2018;NHK Trophy;Ladies FS;data0205;normal
-gpfin2018;ISU GP Helsinki 2018;Ladies SP;gprus2018_Ladies_SP_Scores;normal
-gpfin2018;ISU GP Helsinki 2018;Ladies FS;gprus2018_Ladies_FS_Scores;normal
-gpfin2018;ISU GP Helsinki 2018;Men SP;gprus2018_Men_SP_Scores;normal
-gpfin2018;ISU GP Helsinki 2018;Men FS;gprus2018_Men_FS_Scores;normal
+gpfin2018;ISU GP Helsinki 2018;Ladies SP;gpfin2018_Ladies_SP_Scores;normal
+gpfin2018;ISU GP Helsinki 2018;Ladies FS;gpfin2018_Ladies_FS_Scores;normal
+gpfin2018;ISU GP Helsinki 2018;Men SP;gpfin2018_Men_SP_Scores;normal
+gpfin2018;ISU GP Helsinki 2018;Men FS;gpfin2018_Men_FS_Scores;normal
+gpcan2018;ISU GP 2018 Skate Canada International;Ladies SP;gpcan2018_Ladies_SP_Scores;normal
+gpcan2018;ISU GP 2018 Skate Canada International;Ladies FS;gpcan2018_Ladies_FS_Scores;normal
+gpcan2018;ISU GP 2018 Skate Canada International;Men SP;gpcan2018_Men_SP_Scores;normal
+gpcan2018;ISU GP 2018 Skate Canada International;Men FS;gpcan2018_Men_FS_Scores;normal
+
