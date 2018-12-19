@@ -20,10 +20,14 @@ gpfra2018;ISU GP Internationaux de France de Patinage 2018;Ladies SP;gpfra2018_L
 gpfra2018;ISU GP Internationaux de France de Patinage 2018;Ladies FS;gpfra2018_Ladies_FS_Scores;normal
 gpfra2018;ISU GP Internationaux de France de Patinage 2018;Men SP;gpfra2018_Men_SP_Scores;normal
 gpfra2018;ISU GP Internationaux de France de Patinage 2018;Men FS;gpfra2018_Men_FS_Scores;normal
+gpfra2018;ISU GP Internationaux de France de Patinage 2018;Pairs SP;gpfra2018_Pairs_SP_Scores;normal
+gpfra2018;ISU GP Internationaux de France de Patinage 2018;Pairs FS;gpfra2018_Pairs_FS_Scores;normal
 gprus2018;ISU GP Rostelecom Cup 2018;Men FS;gprus2018_Men_FS_Scores;normal
 gprus2018;ISU GP Rostelecom Cup 2018;Men SP;gprus2018_Men_SP_Scores;normal
 gprus2018;ISU GP Rostelecom Cup 2018;Ladies SP;gprus2018_Ladies_SP_Scores;normal
 gprus2018;ISU GP Rostelecom Cup 2018;Ladies FS;gprus2018_Ladies_FS_Scores;normal
+gprus2018;ISU GP Rostelecom Cup 2018;Pairs SP;gprus2018_Pairs_SP_Scores;normal
+gprus2018;ISU GP Rostelecom Cup 2018;Pairs FS;gprus2018_Pairs_FS_Scores;normal
 gpjpn2018;NHK Trophy;Men SP;data0103;normal
 gpjpn2018;NHK Trophy;Men FS;data0105;normal
 gpjpn2018;NHK Trophy;Ladies SP;data0203;normal
