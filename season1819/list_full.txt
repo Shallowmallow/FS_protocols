@@ -1,0 +1,56 @@
+gpf1819;ISU Grand Prix of Figure Skating Final 2018;Junior Ladies FS;gpf1819_JuniorLadies_PlannedProgramEntries_FS;planned
+gpf1819;ISU Grand Prix of Figure Skating Final 2018;Junior Ladies SP;gpf1819_JuniorLadies_PlannedProgramEntries_SP;planned
+gpf1819;ISU Grand Prix of Figure Skating Final 2018;Junior Men FS;gpf1819_JuniorMen_PlannedProgramEntries_FS;planned
+gpf1819;ISU Grand Prix of Figure Skating Final 2018;Junior Men SP;gpf1819_JuniorMen_PlannedProgramEntries_SP;planned
+gpf1819;ISU Grand Prix of Figure Skating Final 2018;Ladies FS;gpf1819_Ladies_PlannedProgramEntries_FS;planned
+gpf1819;ISU Grand Prix of Figure Skating Final 2018;Ladies SP;gpf1819_Ladies_PlannedProgramEntries_SP;planned
+gpf1819;ISU Grand Prix of Figure Skating Final 2018;Men FS;gpf1819_Men_PlannedProgramEntries_FS;planned
+gpf1819;ISU Grand Prix of Figure Skating Final 2018;Men SP;gpf1819_Men_PlannedProgramEntries_SP;planned
+gpf1819;ISU Grand Prix of Figure Skating Final 2018;Junior Ladies FS;gpf1819_JuniorLadies_FS_Scores;normal
+gpf1819;ISU Grand Prix of Figure Skating Final 2018;Junior Ladies SP;gpf1819_JuniorLadies_SP_Scores;normal
+gpf1819;ISU Grand Prix of Figure Skating Final 2018;Junior Men FS;gpf1819_JuniorMen_FS_Scores;normal
+gpf1819;ISU Grand Prix of Figure Skating Final 2018;Junior Men SP;gpf1819_JuniorMen_SP_Scores;normal
+gpf1819;ISU Grand Prix of Figure Skating Final 2018;Ladies FS;gpf1819_Ladies_FS_Scores;normal
+gpf1819;ISU Grand Prix of Figure Skating Final 2018;Ladies SP;gpf1819_Ladies_SP_Scores;normal
+gpf1819;ISU Grand Prix of Figure Skating Final 2018;Men FS;gpf1819_Men_FS_Scores;normal
+gpf1819;ISU Grand Prix of Figure Skating Final 2018;Men SP;gpf1819_Men_SP_Scores;normal
+gpf1819;ISU Grand Prix of Figure Skating Final 2018;Pairs FS;gpf1819_Pairs_FS_Scores;normal
+gpf1819;ISU Grand Prix of Figure Skating Final 2018;Pairs SP;gpf1819_Pairs_SP_Scores;normal
+gpfra2018;ISU GP Internationaux de France de Patinage 2018;Ladies SP;gpfra2018_Ladies_SP_Scores;normal
+gpfra2018;ISU GP Internationaux de France de Patinage 2018;Ladies FS;gpfra2018_Ladies_FS_Scores;normal
+gpfra2018;ISU GP Internationaux de France de Patinage 2018;Men SP;gpfra2018_Men_SP_Scores;normal
+gpfra2018;ISU GP Internationaux de France de Patinage 2018;Men FS;gpfra2018_Men_FS_Scores;normal
+gpfra2018;ISU GP Internationaux de France de Patinage 2018;Pairs SP;gpfra2018_Pairs_SP_Scores;normal
+gpfra2018;ISU GP Internationaux de France de Patinage 2018;Pairs FS;gpfra2018_Pairs_FS_Scores;normal
+gprus2018;ISU GP Rostelecom Cup 2018;Men FS;gprus2018_Men_FS_Scores;normal
+gprus2018;ISU GP Rostelecom Cup 2018;Men SP;gprus2018_Men_SP_Scores;normal
+gprus2018;ISU GP Rostelecom Cup 2018;Ladies SP;gprus2018_Ladies_SP_Scores;normal
+gprus2018;ISU GP Rostelecom Cup 2018;Ladies FS;gprus2018_Ladies_FS_Scores;normal
+gprus2018;ISU GP Rostelecom Cup 2018;Pairs SP;gprus2018_Pairs_SP_Scores;normal
+gprus2018;ISU GP Rostelecom Cup 2018;Pairs FS;gprus2018_Pairs_FS_Scores;normal
+gpjpn2018;NHK Trophy;Men SP;data0103;normal
+gpjpn2018;NHK Trophy;Men FS;data0105;normal
+gpjpn2018;NHK Trophy;Ladies SP;data0203;normal
+gpjpn2018;NHK Trophy;Ladies FS;data0205;normal
+gpjpn2018;NHK Trophy;Pairs SP;data0303;normal
+gpjpn2018;NHK Trophy;Pairs FS;data0305;normal
+gpfin2018;ISU GP Helsinki 2018;Ladies SP;gpfin2018_Ladies_SP_Scores;normal
+gpfin2018;ISU GP Helsinki 2018;Ladies FS;gpfin2018_Ladies_FS_Scores;normal
+gpfin2018;ISU GP Helsinki 2018;Men SP;gpfin2018_Men_SP_Scores;normal
+gpfin2018;ISU GP Helsinki 2018;Men FS;gpfin2018_Men_FS_Scores;normal
+gpfin2018;ISU GP Helsinki 2018;Pairs SP;gpfin2018_Pairs_SP_Scores;normal
+gpfin2018;ISU GP Helsinki 2018;Pairs FS;gpfin2018_Pairs_FS_Scores;normal
+gpcan2018;ISU GP 2018 Skate Canada International;Ladies SP;gpcan2018_Ladies_SP_Scores;normal
+gpcan2018;ISU GP 2018 Skate Canada International;Ladies FS;gpcan2018_Ladies_FS_Scores;normal
+gpcan2018;ISU GP 2018 Skate Canada International;Men SP;gpcan2018_Men_SP_Scores;normal
+gpcan2018;ISU GP 2018 Skate Canada International;Men FS;gpcan2018_Men_FS_Scores;normal
+gpcan2018;ISU GP 2018 Skate Canada International;Pairs SP;gpcan2018_Pairs_SP_Scores;normal
+gpcan2018;ISU GP 2018 Skate Canada International;Pairs FS;gpcan2018_Pairs_FS_Scores;normal
+gpusa2018;ISU GP 2018 Skate America;Ladies SP;gpusa2018_Ladies_SP_Scores;normal
+gpusa2018;ISU GP 2018 Skate America;Ladies FS;gpusa2018_Ladies_FS_Scores;normal
+gpusa2018;ISU GP 2018 Skate America;Men SP;gpusa2018_Men_SP_Scores;normal
+gpusa2018;ISU GP 2018 Skate America;Men FS;gpusa2018_Men_FS_Scores;normal
+gpusa2018;ISU GP 2018 Skate America;Pairs SP;gpusa2018_Pairs_SP_Scores;normal
+gpusa2018;ISU GP 2018 Skate America;Pairs FS;gpusa2018_Pairs_FS_Scores;normal
+gpusa2018;ISU GP 2018 Skate America;Ice Dance RD;gpusa2018_IceDance_RD_Scores;normal
+gpusa2018;ISU GP 2018 Skate America;Ice Dance FD;gpusa2018_IceDance_FD_Scores;normal
