@@ -1,3 +1,4 @@
+ec2019;ISU European Figure Skating Championships 2019;Ladies SP;ec2019_Ladies_PlannedProgramEntries_SP;planned
 gpf1819;ISU Grand Prix of Figure Skating Final 2018;Junior Ladies FS;gpf1819_JuniorLadies_PlannedProgramEntries_FS;planned
 gpf1819;ISU Grand Prix of Figure Skating Final 2018;Junior Ladies SP;gpf1819_JuniorLadies_PlannedProgramEntries_SP;planned
 gpf1819;ISU Grand Prix of Figure Skating Final 2018;Junior Men FS;gpf1819_JuniorMen_PlannedProgramEntries_FS;planned
