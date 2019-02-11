@@ -1,8 +1,14 @@
+fc2019;ISU Four Continents Championships 2019;Pairs FS;fc2019_Pairs_FS_Scores;normal
+fc2019;ISU Four Continents Championships 2019;Pairs SP;fc2019_Pairs_SP_Scores;normal
+fc2019;ISU Four Continents Championships 2019;Men FS;fc2019_Men_FS_Scores;normal
+fc2019;ISU Four Continents Championships 2019;Men SP;fc2019_Men_SP_Scores;normal
+fc2019;ISU Four Continents Championships 2019;Ladies FS;fc2019_Ladies_FS_Scores;normal
+fc2019;ISU Four Continents Championships 2019;Ladies SP;fc2019_Ladies_SP_Scores;normal
 ec2019;ISU European Figure Skating Championships 2019;Pairs FS;ec2019_Pairs_FS_Scores;normal
 ec2019;ISU European Figure Skating Championships 2019;Pairs SP;ec2019_Pairs_SP_Scores;normal
+ec2019;ISU European Figure Skating Championships 2019;Men FS;ec2019_Men_FS_Scores;normal
 ec2019;ISU European Figure Skating Championships 2019;Men SP;ec2019_Men_SP_Scores;normal
 ec2019;ISU European Figure Skating Championships 2019;Ladies SP;ec2019_Ladies_SP_Scores;normal
-ec2019;ISU European Figure Skating Championships 2019;Ladies SP;ec2019_Ladies_PlannedProgramEntries_SP;planned
 gpf1819;ISU Grand Prix of Figure Skating Final 2018;Junior Ladies FS;gpf1819_JuniorLadies_PlannedProgramEntries_FS;planned
 gpf1819;ISU Grand Prix of Figure Skating Final 2018;Junior Ladies SP;gpf1819_JuniorLadies_PlannedProgramEntries_SP;planned
 gpf1819;ISU Grand Prix of Figure Skating Final 2018;Junior Men FS;gpf1819_JuniorMen_PlannedProgramEntries_FS;planned
