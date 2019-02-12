@@ -1,5 +1,3 @@
-fc2019;ISU Four Continents Championships 2019;Pairs FS;fc2019_Pairs_FS_Scores;normal
-fc2019;ISU Four Continents Championships 2019;Pairs SP;fc2019_Pairs_SP_Scores;normal
 fc2019;ISU Four Continents Championships 2019;Men FS;fc2019_Men_FS_Scores;normal
 fc2019;ISU Four Continents Championships 2019;Men SP;fc2019_Men_SP_Scores;normal
 fc2019;ISU Four Continents Championships 2019;Ladies FS;fc2019_Ladies_FS_Scores;normal
